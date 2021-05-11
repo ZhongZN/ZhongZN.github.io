@@ -1,4 +1,4 @@
-# ZFonts Plugin <small>v3.0.0</small>
+# ZFonts Plugin <small>v3.1.2</small>
 
 - 让网站字体美化不再困难
 - 让你的博客别具一格
